@@ -2,6 +2,7 @@
   "name": "vue-test",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://whwhll.github.io/test/",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
